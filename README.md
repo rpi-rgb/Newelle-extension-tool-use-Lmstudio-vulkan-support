@@ -1,4 +1,4 @@
-experimental: expect some crashesdue to memory overload
+experimental: expect some crashes due to memory overload
 
 # Newelle-extension-tool-use-Lmstudio-vulkan-support
 a generated python script to translate the json function calling to python. Allowing tool use with vulkan laama.cpp 
