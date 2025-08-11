@@ -3,6 +3,11 @@ a generated python script to translate the json function calling to python. Allo
 
 <img width="300" height="100" alt="newelle extension" src="https://github.com/user-attachments/assets/a4ce7cd4-9aba-4bd4-821d-2e70c682b6e6" />
 
+
+
+Just download .py file and add from extension menu in newelle UI
+
+
 created by gpt-oss-20b
 
 
