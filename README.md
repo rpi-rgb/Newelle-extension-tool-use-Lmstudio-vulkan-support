@@ -257,4 +257,4 @@ Vous avez maintenant :
 2. Un mécanisme de traduction vers la syntaxe Vulkan Llama.cpp.
 3. La capacité d’exécuter le moteur localement et de renvoyer le résultat dans le chat.
 
-N’hésitez pas à me dire si vous avez besoin d’ajuster un détail (chemin, flags, format JSON…) !
+
