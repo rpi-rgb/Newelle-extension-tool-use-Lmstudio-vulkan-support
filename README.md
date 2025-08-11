@@ -1,6 +1,8 @@
 # Newelle-extension-tool-use-Lmstudio-vulkan-support
 a generated python script to translate the json function calling to python. Allowing tool use with vulkan laama.cpp 
 
+<img width="300" height="100" alt="newelle extension" src="https://github.com/user-attachments/assets/a4ce7cd4-9aba-4bd4-821d-2e70c682b6e6" />
+
 <|channel|>analysis<|message|>Need explain how to create extension that intercepts function calls and translate for Vulkan Llama.cpp. Provide code skeleton.<|end|>
 
 <|start|>assistant<|channel|>final<|message|>## 1️⃣ Objectif
